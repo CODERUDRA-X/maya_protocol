@@ -7,7 +7,7 @@
 ![Theme](https://img.shields.io/badge/Style-Cyberpunk%20UI-purple)
 
 ## 📸 Interface Preview
-![Dashboard Preview](https://github.com/CODERUDRA-X/maya_protocol/blob/main/Screenshot%202026-01-26%20180528.png?raw=true)
+![Dashboard Preview](https://github.com/CODERUDRA-X/maya_protocol/blob/main/file_00000000f2b87207a12be0f906b71e99%20(1).png)
 
 ---
 
