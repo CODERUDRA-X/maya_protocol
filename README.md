@@ -6,7 +6,7 @@
 ![Tech Stack](https://img.shields.io/badge/Tech-Flutter%20%7C%20Dart%20%7C%20C%2B%2B-blue)
 ![Theme](https://img.shields.io/badge/Style-Cyberpunk%20UI-purple)
 
-## 📸 Interface Preview
+
 ![Dashboard Preview](https://github.com/CODERUDRA-X/maya_protocol/blob/main/file_00000000f2b87207a12be0f906b71e99%20(1).png)
 
 ---
